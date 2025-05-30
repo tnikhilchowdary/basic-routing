@@ -13,7 +13,7 @@ This is a beginner-friendly React project that demonstrates how to use **React R
 
 ---
 ##  Screenshot
-![Screenshot](public/screesnshot.png)
+![Screenshot](public/screesnhot.png)
 
 
 ## 🛠️ Tech Stack
